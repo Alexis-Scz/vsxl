@@ -1,0 +1,222 @@
+            
+            
+            
+            
+            
+            G H I J 16
+           
+        dim notem1 as string
+        dim notem1     as string
+        dim notem2     as string
+        dim notem3     as string
+        dim notem4     as string
+        dim notem5     as string
+        dim notem6     as string
+        dim notem7     as string
+        dim notem8     as string
+        dim notecomp1  as string
+        dim notecomp2  as string
+        dim notecomp3  as string
+        dim notecomp4  as string
+        dim notecomp5  as string
+        dim notecomp6  as string
+        dim notecomp7  as string
+        dim notecomp8  as string
+        dim notecomp9  as string
+        dim notecomp10 as string
+        dim notecomp11 as string
+        dim notecomp12  as string
+        dim notecomp13 as string
+            
+            
+        "mission 1","notation mission 1","mission 2","notation mission 2","mission 3","notation mission 3","mission 4","notation mission 4","mission 5","notation mission 5",_
+        "mission 6","notation mission 6","mission 7","notation mission 7","mission 8","notation mission 8","competences 1","notation competences 1","competences 2",_
+        "notation competences 2","competences 3","notation competences 3","competences 4","notation competences 4","competences 5","notation competences 5","competences 6",_
+        "notation competences 6","competences 7","notation competences 7","competences 8","notation competences 8","competences 9","notation competences 9","competences 10",_
+        "notation competences 10","competences 11","notation competences 11","competences 12","notation competences 12",
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
