@@ -103,7 +103,6 @@ Sub Lancer_recuperation()
 
         Filename = Dir
   Loop
-stp:
    MsgBox "allé c bon!", vbInformation
         
 End Sub
