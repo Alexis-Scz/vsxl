@@ -841,7 +841,7 @@ sub tt()
 
 End Sub
 
-
+sub choix ()
         if ws.range("G16").Value=true then
             notem1="excellent"
         end if
@@ -1252,3 +1252,4 @@ End Sub
             notecomp13="Insuffisant"
         End if
 
+end Sub
